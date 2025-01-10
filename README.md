@@ -59,7 +59,7 @@ Here are a few highlights from my academic and personal portfolio:
 ## How to Connect
 
 📫 **Email**: [maxlorsignol@gmail.com] 
-📄 **CV**: [View PDF](#)  
+📄 **CV**: [https://github.com/user-attachments/files/18369921/Geomatics.Resume.pdf](#)  
 💼 **LinkedIn**: [https://www.linkedin.com/in/max-lorsignol-bb854595/](#)  
 
 Let’s connect and collaborate on meaningful environmental solutions!
