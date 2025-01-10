@@ -45,14 +45,14 @@ When I’m not working on geospatial projects, you can find me **woodworking**, 
 ## Projects
 
 Here are a few highlights from my academic and personal portfolio:
-- **Whale Suitability Analysis**: 
-- **Grizzly Least Cost Analysis**: 
-- **Vancouver Street Trees**: 
-- **Supervised and Unsupervised Classifications**:
-- **Time Series Anaylsis**:
-- **Landscape Connectivity and Network Analysis**:
-- **OECM Land Designation**:
-- **NDSI Icefield Time Series**:
+- **Whale Suitability Analysis**
+- **Grizzly Least Cost Analysis**
+- **Vancouver Street Trees**
+- **Supervised and Unsupervised Classifications**
+- **Time Series Anaylsis**
+- **Landscape Connectivity and Network Analysis**
+- **OECM Land Designation**
+- **NDSI Icefield Time Series**
 
 ---
 
